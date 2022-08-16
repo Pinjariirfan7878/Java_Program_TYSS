@@ -25,7 +25,7 @@ public class remove_duplicate {
 //		{
 //			//System.out.print(a[l]+" ");
 //		}
-		System.err.print("\n");
+		System.out.print("\n");
 		System.out.println(Arrays.toString(a));
 	}
 }

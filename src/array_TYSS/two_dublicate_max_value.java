@@ -16,7 +16,7 @@ public class two_dublicate_max_value {
 			{
 				if(a[i]!=max)
 				{
-				secmax=max;
+					secmax=max;
 				}
 				max=a[i];
 			}
@@ -29,5 +29,5 @@ public class two_dublicate_max_value {
 		System.out.println(max);
 		System.out.println(secmax);
 
-}
+	}
 }

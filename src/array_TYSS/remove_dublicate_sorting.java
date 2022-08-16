@@ -12,10 +12,10 @@ public class remove_dublicate_sorting {
 		for (int i=0;i<a.length-1;i++)
 		{
 			int t;
-			for(int m=0;m<a.length-1;m++)
+			for(int m=1;m<a.length-1;m++)
 			{
 				
-					if(a[m]>a[m+1] )
+					if(a[m]==a[m+1] )
 					{
 						t=a[m];
 						a[m]=a[m+1];
