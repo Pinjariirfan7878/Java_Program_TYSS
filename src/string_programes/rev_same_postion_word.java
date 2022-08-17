@@ -18,12 +18,5 @@ public class rev_same_postion_word {
 			}
 			System.out.print(rev+" ");
 		}
-
-
-
-
-
-
 	}
-
 }

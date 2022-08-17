@@ -3,7 +3,7 @@ package string_programes;
 public class a_e_count {
 	public static void main(String[] args) {
 
-		String s="java tester";
+		String s="javatester";
 		int a_count=0;
 		int e_count=0;
 		for (int i=0;i<s.length();i++)
