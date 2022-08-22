@@ -5,7 +5,7 @@ public class accending_sorting {
 	public static void main(String[] args) {
 
 
-		int a[]= {1,0,1,0,1,0,1,0};
+		int a[]= {1,4,1,9,1,10,111,250};
 
 		for (int m=0;m<a.length-1;m++)
 		{
@@ -17,6 +17,10 @@ public class accending_sorting {
 					t=a[i];
 					a[i]=a[i+1];
 					a[i+1]=t;
+					
+//					a[i]=a[i]+a[i+1];
+//					a[i+1]=a[i]-a[i+1];
+//					a[i]=a[i]-a[i+1];
 
 				}
 		}
