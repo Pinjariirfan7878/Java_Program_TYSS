@@ -4,7 +4,7 @@ public class palindrome_string {
 
 	public static void main(String[] args) {
 		
-		String s="mada";
+		String s="madam";
 		String temp=s;
 		String rev="";
 		

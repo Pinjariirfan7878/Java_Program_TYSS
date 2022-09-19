@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class split {
 	public static void main(String[] args) {
 		
-		String s="hi irfan Welcome to autromation world";
+		String s="hi irfan Welcome to Automation world";
 		String [] arr=s.split(" ");
 		
 		
